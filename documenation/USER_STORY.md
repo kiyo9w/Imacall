@@ -18,6 +18,7 @@ So that I can receive useful answers without waiting too long.
 7. Simple and user-friendly interface, with a clear chatbox and send button.  
 8. Saves chat history, allowing users to review past messages.  
 9. API integration to expand to other platforms (Messenger, Slack, Telegram).  
+10. Provides an option for users to rate AI responses or provide feedback directly (e.g., thumbs up/down, regenerate response, add guidance for response...).
 
 -----------------------------------------------------------------------------------------------------------------------------
 
@@ -32,6 +33,7 @@ So that I can receive useful answers without waiting too long.
 |  High  | User-friendly UI      | Simple, intuitive, and easy-to-use interface |
 | Medium | AI Personality Customization | AI can adjust response styles |
 | Medium | Chat History          | Users can review past conversations |
+| Medium | Chat Feedbacks        | Users can rate AI answers, allowing for more personalized responses|
 |  Low   | Image Generation      | AI can process information through images |
 |  Low   | API Integration       | Supports integration with other platforms |
 |  Low   | Offline Mode          | AI can function even without an internet connection |
@@ -59,6 +61,7 @@ Tôi muốn có thể trò chuyện với AI một cách tự nhiên và nhanh c
 7. Giao diện đơn giản, dễ sử dụng, có box chat và nút gửi tin nhắn rõ ràng.  
 8. Lưu lịch sử trò chuyện, cho phép người dùng xem lại các tin nhắn cũ.  
 9. Tích hợp API để có thể mở rộng sang các nền tảng khác (Messenger, Slack, Telegram).  
+10. Cung cấp cho người dùng tùy chọn đánh giá phản hồi của AI hoặc cung cấp phản hồi trực tiếp (ví dụ: like/dislike, tạo lại phản hồi, thêm yêu cầu cho phản hồi...).
 
 -----------------------------------------------------------------------------------------------------------------------------
 
@@ -73,6 +76,7 @@ Tôi muốn có thể trò chuyện với AI một cách tự nhiên và nhanh c
 |  High  | User-friendly UI      | Giao diện đơn giản, trực quan, dễ sử dụng |
 | Medium | AI Personality Customization | AI có thể điều chỉnh phong cách trả lời |
 | Medium | Chat History          | Người dùng có thể xem lại lịch sử trò chuyện |
+| Medium | Chat Feedbacks        | Người dùng có thể đánh giá câu trả lời của AI|
 |  Low   | Image Generation      | AI có thể xử lý thông tin qua hình ảnh |
 |  Low   | API Integration       | Hỗ trợ tích hợp vào các nền tảng khác |
 |  Low   | Offline Mode          | AI có thể hoạt động ngay cả khi không có kết nối mạng |
