@@ -2,10 +2,12 @@ import elevenlabs
 from flask import Flask, request, jsonify, send_file
 import requests
 import os
+from dotenv import load_dotenv
 
+
+load_dotenv()
 app = Flask(__name__)
-
-API_KEY = "sk_8665cf06e56bd84699fbfce8c2e20c8e6f2cf06cf364abe2"
+api_key = os.getenv("API_KEY")
 VOICE_ID = "EXAVITQu4vr4xnSDxMaL"
 ELEVENLABS_API_URL = f"https://api.elevenlabs.io/v1/text-to-speech/{VOICE_ID}"
 
